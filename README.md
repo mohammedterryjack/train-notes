@@ -39,3 +39,5 @@ notes to remember for any ml training. Remember, the insights from each step wil
 - inspect predictions (edge cases)
 
 ## Deployment
+- logging
+- dashboard / live monitoring
