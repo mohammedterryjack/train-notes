@@ -21,7 +21,10 @@ notes to remember for any ml training. Remember, the insights from each step wil
 
 ## Models
 - model-free approaches (embeddings and ranking)
-- model approaches (sklearn, torch, huggingface, etc)
+- same input output embedding space and cosine similarity or dot product (train embedding model)
+- different input output embedding space with custom distance metric model like siamese network (train regression model)
+- model approaches (classifiers)
+- model libraries (sklearn, torch, huggingface, etc)
 - llms
 
 ## Training  
